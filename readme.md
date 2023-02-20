@@ -14,6 +14,7 @@ for (let i = 1; i < 20; i += 7){
 
 
 // Answer to question 1
+
 i. Arithmetic Operators- symbols are +, -, /, *, **, %, ++, --.
 ii. Assignment Operators- symbol is =.
 iii. Comparison Operators- symbols are >, <, >=, <=, ==, ===, !==.
@@ -21,6 +22,7 @@ iv. Logical Operators- symbols are &&, ||, !.
 v. Bitwise Operators- symbols are &, |, ^, <<, >>.
 
 // Answer to question 2
+
 1. Arithmetic Operators- 
     i. let a = 6;
        let b = 10;
