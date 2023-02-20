@@ -54,7 +54,10 @@ v. Bitwise Operators- symbols are &, |, ^, <<, >>.
          }
 
 5. Bitwise Operators-
-    i. 
+    i. age = 10;
+       class = 300;
+       if (age > 17 & class >= 200) // prints false
+    ii. if (age = 18 | class = 300) // prints true
 
 // Answer to question 4
 4. The result of the expression below is 1, 8 and 15.
